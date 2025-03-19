@@ -1,7 +1,7 @@
 # 1) create main window
 from tkinter import * 
 tk = Tk()
-tk.title('SAP-Bouncing ball')
+tk.title('Bouncing ball')
 tk.resizable(False, False)
 # 2) create canvas and ball
 WIDTH, HEIGHT = 400, 300
